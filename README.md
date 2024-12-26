@@ -2,7 +2,7 @@
 I am Md. Nafiu Rahman, an enthusiastic and adaptable developer, deeply interested in software development and deep learning. I thrive on exploring cutting-edge technologies and creating innovative solutions across various domains, with a focus on AI integration. 
 
 # 💫 About Me:
-🔭 I’m currently working on leveraging LLMs for secret detection in software fields, brain aging estimation, and cognitive status detection.<br> 👯 I’m looking to collaborate on Software and Deep Learning projects aligning with my interest <br> 
+🔭 I’m currently working on leveraging LLMs for secret detection in software fields, brain aging estimation, and cognitive status detection.<br> 🤝 I’m looking to collaborate on Software and Deep Learning projects aligning with my interest <br> 
 🌱 I’m currently learning about fine tuning LLMs for secret detection, brain data processing , deep learning driven driven cognitive analysis.<br>
 💬 Ask me about anything. I’ll try to share insights or point you in the right direction if it’s in my area of expertise.
 
