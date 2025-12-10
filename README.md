@@ -10,15 +10,6 @@ I work on software security and LLMs. My research focuses on detecting secrets a
 
 ---
 
-### Research
-
-| Paper | Venue | Status |
-|-------|-------|--------|
-| **Secret Breach Detection in Source Code with LLMs** | ESEM 2025 | Accepted |
-| **BanglaForge: LLM Collaboration for Bangla Code Generation** | BLP @ AACL-IJCNLP 2025 | Accepted |
-
----
-
 ### Tech Stack
 
 **Languages:** Python, C/C++, JavaScript/TypeScript, Java, Bash  
