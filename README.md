@@ -19,3 +19,15 @@ I work on software security and LLMs. My research focuses on detecting secrets a
 **Tools:** Git, Docker, Linux
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiurahman00/nafiurahman00/main/assets/overview-dark.svg">
+    <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/nafiurahman00/nafiurahman00/main/assets/overview-light.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiurahman00/nafiurahman00/main/assets/languages-dark.svg">
+    <img alt="Language distribution" src="https://raw.githubusercontent.com/nafiurahman00/nafiurahman00/main/assets/languages-light.svg" width="49%">
+  </picture>
+</p>
+
+
